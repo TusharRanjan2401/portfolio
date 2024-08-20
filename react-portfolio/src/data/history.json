@@ -1,0 +1,33 @@
+[{
+    "role": "Associate Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on creating optimized Accenture tools for clients", "Optimized rendering using React"],
+    "imageSrc":"history/acn-logo.png"
+},
+{
+    "role": "SWE Intern",
+    "organisation": "(IBDIC) Indian Banks' Digital Infrastructure Company",
+    "startDate": "Aug, 202",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked collaboratively with the Development team on creating restful APIs", "Gained valuable technical and teamwork skills"],
+    "imageSrc":"history/ibdic.png"
+},
+{
+    "role": "Project Intern",
+    "organisation": "HighRadius",
+    "startDate": "Jan, 2022",
+    "endDate": "Apr, 2022",
+    "experiences": ["Served as a full stack developer intern", "Contributed to the development of B2B invoice management system"],
+    "imageSrc":"history/highradius.png"
+},
+{
+    "role": "Teaching Assistant",
+    "organisation": "Coding Ninjas",
+    "startDate": "Nov, 2021",
+    "endDate": "Mar, 2022",
+    "experiences": ["Worked as an online teaching assistant", "Guided students in learning Java and it's data structures"],
+    "imageSrc":"history/coding_ninjas.png"
+}
+]
