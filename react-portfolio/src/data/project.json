@@ -1,41 +1,48 @@
 [
     {
-        "titile": "eVault",
+        "title":"VisionAI",
+        "imageSrc":"projects/aiObjectDetector.png",
+        "description":"VisionAI is an AI based Object detection application build with Next.js and Tensorflow.js",
+        "skills":["Next.js","Tensorflow.js","Schandcn UI library"],
+        "source":"https://github.com/TusharRanjan2401/visionai"
+    },
+    {
+        "title": "eVault",
         "imageSrc": "projects/eVault.png",
         "description":"The E-Wallet Application is a modern, scalable web application for managing and recording financial transactions. ",
         "skills":["React", "NodeJS", "ExpressJS", "MongoDB", "Stripe"],
         "source":"https://github.com/TusharRanjan2401/eVault"
     },
     {
-        "titile":"Realtime-Device-Tracker",
+        "title":"Realtime-Device-Tracker",
         "imageSrc":"projects/device_tracker.png",
         "description":"This project is a real-time device tracking application built with Node.js, Socket.io, and Leaflet. The application allows you to track and display the location of devices on a map in real-time.",
         "skills":["React", "NodeJS", "ExpressJS", "socket.io", "leaflet"],
         "source":"https://github.com/TusharRanjan2401/realtime-tracker"
     },
     {
-        "titile":"Prods",
+        "title":"Prods",
         "imageSrc":"projects/ecommerce.png",
         "description":"An E-commerce application,The E-Commerce Application is a modern, full-featured online shopping platform, allows users to browse products, add them to their cart, and make purchases ",
         "skills":["React", "NodeJS", "ExpressJS", "MongoDB"],
         "source":"https://github.com/TusharRanjan2401/Ecommerce"
     },
     {
-        "titile":"State-management-lib",
+        "title":"State-management-lib",
         "imageSrc":"projects/state-management.png",
         "description":"A lightweight state management solution designed for complex applications where existing libraries might be overkill. This library provides a simple and intuitive API for managing application state.",
         "skills":["React", "npmjs"],
         "source":"https://www.npmjs.com/package/state-management-lib"
     },
     {
-        "titile":"Pizzeria",
+        "title":"Pizzeria",
         "imageSrc":"projects/pizzeria.png",
         "description":"Pizzeria is a modern pizza delivery application that allow users to browse the menu, and manage their accounts, all through a user-friendly interface.",
         "skills":["Angular", "NodeJS", "ExpressJS","MongoDB"],
         "source":"https://github.com/TusharRanjan2401/Project_Pizza"
     },
     {
-        "titile":"Url-Shortner",
+        "title":"Url-Shortner",
         "imageSrc":"projects/url-short.png",
         "description":"A simple URL shortner that allows you to shorten URLs and resolve them back to the original form.It's a lightweight solution for managing and shortening URLs",
         "skills":["NodeJS"],

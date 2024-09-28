@@ -1,15 +1,7 @@
 [
     {
-        "title":"HTML",
-        "imageSrc": "skills/html.png"
-    },
-    {
-        "title":"CSS",
-        "imageSrc": "skills/css.png"
-    },
-    {
-        "title":"JavaScript",
-        "imageSrc": "skills/js.png"
+        "title":"Next.js",
+        "imageSrc":"skills/nextjs.png"
     },
     {
         "title":"React",
@@ -20,6 +12,19 @@
         "imageSrc": "skills/angular.png"
     },
     {
+        "title":"Typescript",
+        "imageSrc": "skills/typescript.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc": "skills/js.png"
+    },
+    {
+        "title":"Java",
+        "imageSrc": "skills/java.png"
+    },
+  
+    {
         "title":"NojeJS",
         "imageSrc": "skills/node.png"
     },
@@ -28,16 +33,8 @@
         "imageSrc": "skills/expressjs.png"
     },
     {
-        "title":"Version Control",
-        "imageSrc": "skills/git.png"
-    },
-    {
-        "title":"Java",
-        "imageSrc": "skills/java.png"
-    },
-    {
-        "title":"Typescript",
-        "imageSrc": "skills/typescript.png"
+        "title":"Redux",
+        "imageSrc":"skills/redux.png"
     },
     {
         "title":"MongoDB",
@@ -48,7 +45,19 @@
         "imageSrc": "skills/sql.png"
     },
     {
+        "title":"HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
         "title":"Firebase",
         "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title":"Version Control",
+        "imageSrc": "skills/git.png"
     }
 ]
